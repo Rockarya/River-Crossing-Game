@@ -41,4 +41,4 @@ crossing fixed obstacles 5 points.
 -> In every succesive round for each player speed of moving obstacles increases by 
     certain pace.
 
-	I HOPE YOU ENJOY PLAYING THE GAME!!! 
+	I HOPE YOU WILL ENJOY PLAYING THE GAME :-))
