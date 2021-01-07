@@ -1,6 +1,7 @@
 # River Crossing Game
 
 HOW TO RUN?
+
 -> Clone the repo on your local machine.
 
 -> Open this cloned directory.
@@ -8,6 +9,7 @@ HOW TO RUN?
 -> Run: python game.py
 
 ABOUT MY RIVER CROSSING CHALLENGE GAME :
+
 -> Playing arena consists of a river with some partitions in it. 
 
 -> There are 2 players in the game, one at Top and another at Bottom (2 sides of the river bank). 
